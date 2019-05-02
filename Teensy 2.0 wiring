@@ -1,0 +1,12 @@
+Keyboard                 Teensy 2.0
+                           ______
+                          /      \
+PIN 6th*  5V------+-------|D5    |  *VCC    - 
+                  |       |      |
+             1K Resistor  |      |
+                  |       |      |
+PIN 2nd*  DATA----+-------|D0    |  *PD0    - 
+                          |      |
+PIN 8th*  GND-------------|GND   |  *Ground - yellow wire
+                          \______/
+*Pins are count from left
